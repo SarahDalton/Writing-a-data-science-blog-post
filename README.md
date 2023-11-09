@@ -35,3 +35,14 @@ The jupyter Notebook 'Writing a Data Science Blog Post.ipynb' can be found in th
 Reference
 https://www.bcs.org/articles-opinion-and-research/why-we-need-more-women-in-tech/
 https://www.womenintech.co.uk/women-in-tech-survey-2023#:~:text=The%20majority%20of%20people%20surveyed,are%20noticing%20the%20gender%20gap.
+
+## Libraries Used
+numpy
+To install: !pip install numpy
+
+pandas
+To install: !pip install pandas
+
+matplotlib.pyplot
+To install: !pip install matplotlib
+
